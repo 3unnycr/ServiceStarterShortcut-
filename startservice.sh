@@ -5,7 +5,7 @@ function start_service(){
 	echo "Select Service to Start"
 	echo "[1] Apache2"
 	echo "[2] Mysql"
-	echo "[3] Apache + Mysql"
+	echo "[3] Apache2 + Mysql"
 	echo "[4] Back"
 	echo "[5] Exit"
 	read -p "3u# " OPTION
@@ -43,7 +43,7 @@ function restart_service(){
 	echo "Select Service to Restart"
 	echo "[1] Apache2"
 	echo "[2] Mysql"
-	echo "[3] Apache + Mysql"
+	echo "[3] Apache2 + Mysql"
 	echo "[4] Back"
 	echo "[5] Exit"
 	read -p "3u# " OPTION
@@ -82,7 +82,7 @@ function stop_service(){
 	echo "Select Service to Stop"
         echo "[1] Apache2"
         echo "[2] Mysql"
-        echo "[3] Apache + Mysql"
+        echo "[3] Apache2 + Mysql"
         echo "[4] Back"
 	echo "[5] Exit"
         read -p "3u# " OPTION
