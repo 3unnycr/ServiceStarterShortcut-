@@ -2,7 +2,7 @@
 Service Starter
 
 <h1>Automated Service Starter Simple Program for beginner developer</h1>
-<p> For starting apache2 mysql service with service with less commands</p>
+<p> For starting apache2 mysql service with less commands</p>
 <pre>
 Well-come to Service starter --made by 3unnycr
 [1] Start service
