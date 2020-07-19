@@ -15,7 +15,7 @@ Well-come to Service starter --made by 3unnycr
 Select Service to Start
 [1] Apache2
 [2] Mysql
-[3] Apache + Mysql
+[3] Apache2 + Mysql
 [4] Back
 [5] Exit
 </pre>
