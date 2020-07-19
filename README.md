@@ -1,7 +1,7 @@
 # ServiceStarterShortcut-
 Service Starter
 
-<h1>Automated Service Starter Simple Program for beginner developer</h1>
+<h1>Automated service starter simple program for beginner developer : Linux</h1>
 <p> For starting apache2 mysql service with less commands</p>
 <pre>
 Well-come to Service starter --made by 3unnycr
