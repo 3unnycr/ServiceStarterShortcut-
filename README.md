@@ -11,7 +11,14 @@ Well-come to Service starter --made by 3unnycr
 [4] Exit
 3u# 1
 </pre>
------------------------------------------------------------------------------------
+<pre>
+Select Service to Start
+[1] Apache2
+[2] Mysql
+[3] Apache + Mysql
+[4] Back
+[5] Exit
+</pre>
 <h2>Installation</h2>
 <pre>
 git clone https://github.com/3unnycr/ServiceStarterShortcut-.git
